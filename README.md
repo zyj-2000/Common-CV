@@ -12,3 +12,8 @@ Q2. The Problems occurred about xcb and MoTTY X11:
 sudo apt-get install xvfb
 xvfb-run pyhon xxx.py
 ```
+
+Q3. The certificate expires when the mirror source is accessed:
+```
+sudo apt-get -o Acquire::https::mirrors.tuna.tsinghua.edu.cn::Verify-Peer=false install xxx
+```
