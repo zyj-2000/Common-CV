@@ -43,3 +43,18 @@ Find the corespingding model in huggingface:
 https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main
 ```
 
+Q6. Install OpenGL
+
+Refer to [CSDN](https://blog.csdn.net/qq_40520596/article/details/111663646)
+
+Q7. nvidia-smi: "Failed to initialize NVML: Driver/library version mismatch"
+step 1. reboot
+step 2. re install the driver of gpu
+```
+sudo apt-get purge nvidia*
+sudo systemctl isolate multi-user.target
+sudo modprobe -r nvidia-drm
+sudo ./NVIDIA-Linux-x86_64-530.41.03.run
+```
+
+
