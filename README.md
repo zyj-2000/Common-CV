@@ -32,3 +32,13 @@ Q4. The source of pip
 ```
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
+
+Q5. The connection of huggingface
+```
+# An example:
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/models/runwayml/stable-diffusion-v1-5 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8fc3db9990>, 'Connection to huggingface.co timed out. (connect timeout=None)'))
+# Solution:
+Find the corespingding model in huggingface:
+https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main
+```
+
