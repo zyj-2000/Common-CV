@@ -57,4 +57,5 @@ sudo modprobe -r nvidia-drm
 sudo ./NVIDIA-Linux-x86_64-530.41.03.run
 ```
 
-
+Q7. Dismatch between CUDA and Eigen3
+Refer to [CSDN](https://blog.csdn.net/weixin_45736684/article/details/117512018)
