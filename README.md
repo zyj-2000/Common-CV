@@ -57,5 +57,11 @@ sudo modprobe -r nvidia-drm
 sudo ./NVIDIA-Linux-x86_64-530.41.03.run
 ```
 
-Q7. Dismatch between CUDA and Eigen3
+Q8. Dismatch between CUDA and Eigen3
 Refer to [CSDN](https://blog.csdn.net/weixin_45736684/article/details/117512018)
+
+Q9. DISPLAY?
+```
+xeyes -display 192.168.196.104:0.0
+sudo docker run --privileged --gpus all --name dlct3 -idt -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=$DISPLAY docker_dlc:v1
+```
