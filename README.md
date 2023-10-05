@@ -6,15 +6,16 @@ CUDAs
 [Reference](https://segmentfault.com/a/1190000022561685)
 [cuda-11.3](https://developer.nvidia.com/cuda-11.3.0-download-archive?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=18.04&target_type=runfile_local)
 
-Face Parsing
-
-[Reference](https://blog.csdn.net/weixin_43723625/article/details/116719701)
 ```
 vim ~/.bashrc
 source ~/.bashrc
 sudo rm -rf /usr/local/cuda
 sudo ln -s /usr/local/cuda-9.2 /usr/local/cuda
 ```
+
+Face Parsing
+
+[Reference](https://blog.csdn.net/weixin_43723625/article/details/116719701)
 
 ## Common Problems
 Q1. The Mathype in Word can't delete the formula:
