@@ -1,5 +1,9 @@
-# Ph.D-Experience
-Eat, sleep and research
+# Common CV
+
+This project contains some problems we met when learning Computer Vision (CV), hope it can help you a lot!
+
+Welcome to give your problems about CV in Issues and welcome to communicate with each other!
+
 ## Useful Tools
 CUDAs
 
