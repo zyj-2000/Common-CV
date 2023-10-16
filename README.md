@@ -21,6 +21,15 @@ Face Parsing
 
 [Reference](https://blog.csdn.net/weixin_43723625/article/details/116719701)
 
+## Some Concepts of Image Quality
+
+**Bokeh (散景)** 景深较浅的摄影成像中，落在景深以外的画面，会有逐渐产生松散模糊的效果
+
+**Chromatic Aberration （色差）** 指光学上透镜无法将各种波长的色光都聚焦在同一点上的现象，色差是由于镜头散射现象而造成的，图像中的物体周围特别是高对比度的情况下可能出现模糊或明显的色彩边缘（红、绿、蓝、黄、紫、洋红）就称之为色差
+
+**Shallow depth-of-field (浅景深)**
+
+
 ## Common Problems
 Q1. The Mathype in Word can't delete the formula:
 
