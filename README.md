@@ -4,6 +4,10 @@ This project contains some problems we met when learning Computer Vision (CV), h
 
 Welcome to give your problems about CV in Issues and welcome to communicate with each other!
 
+## TMUX
+
+tmux new-session -t projection
+
 ## Web
 
 How to get the poste time of an URL?:
