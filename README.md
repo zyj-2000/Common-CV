@@ -6,7 +6,9 @@ Welcome to give your problems about CV in Issues and welcome to communicate with
 
 ## TMUX
 
+```
 tmux new-session -t projection
+```
 
 ## Web
 
