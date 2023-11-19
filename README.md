@@ -4,6 +4,11 @@ This project contains some problems we met when learning Computer Vision (CV), h
 
 Welcome to give your problems about CV in Issues and welcome to communicate with each other!
 
+## Web
+
+How to get the poste time of an URL?:
+[Reference](https://mmys.club/how-to-find-the-published-date-of-a-web-page/#:~:text=%E6%9F%A5%E6%89%BE%E7%BD%91%E9%A1%B5%E5%8F%91%E5%B8%83%E6%97%A5%E6%9C%9F%E7%9A%84%206%20%E7%A7%8D%E6%96%B9%E6%B3%95%201%201.%20%E6%B5%8F%E8%A7%88%E7%BD%91%E9%A1%B5%20%E5%8F%91%E5%B8%83%E6%97%A5%E6%9C%9F%E6%98%AF%E5%9C%A8%E7%BA%BF%E5%88%9B%E5%BB%BA%E7%BD%91%E9%A1%B5%E6%89%80%E9%9C%80%E7%9A%84%E5%85%83%E6%95%B0%E6%8D%AE%E4%B9%8B%E4%B8%80%E3%80%82%20%E8%BF%99%E6%98%AF%E4%B8%80%E9%83%A8%E5%88%86,...%206%206.%20%E4%BD%BF%E7%94%A8%20Google%20%E6%9F%A5%E6%89%BE%E9%A1%B5%E9%9D%A2%E7%9A%84%E5%8F%91%E5%B8%83%E6%97%A5%E6%9C%9F%20%E5%A6%82%E6%9E%9C%E6%82%A8%E5%9C%A8%E4%B8%8A%E8%BF%B0%E6%96%B9%E6%B3%95%E4%B8%AD%E6%B2%A1%E6%9C%89%E6%89%BE%E5%88%B0%E9%A1%B5%E9%9D%A2%E7%9A%84%E5%8F%91%E5%B8%83%E6%97%A5%E6%9C%9F%EF%BC%8C%E9%82%A3%E4%B9%88%E8%B0%B7%E6%AD%8C%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%B8%AE%E5%8A%A9%E6%82%A8%E6%89%BE%E5%88%B0%E5%AE%83%E3%80%82%20)
+
 ## Useful Tools
 CUDAs
 
