@@ -21,6 +21,9 @@ CUDAs
 [Reference](https://segmentfault.com/a/1190000022561685)
 [cuda-11.3](https://developer.nvidia.com/cuda-11.3.0-download-archive?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=18.04&target_type=runfile_local)
 
+Codes in word/wps
+
+[https://zhuanlan.zhihu.com/p/108483150](https://zhuanlan.zhihu.com/p/108483150)
 ```
 vim ~/.bashrc
 source ~/.bashrc
