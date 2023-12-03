@@ -91,6 +91,9 @@ sudo ./NVIDIA-Linux-x86_64-530.41.03.run
 Q8. Dismatch between CUDA and Eigen3
 Refer to [CSDN](https://blog.csdn.net/weixin_45736684/article/details/117512018)
 
+Q9. TypeError: ‘numpy._DTypeMeta‘ object is not subscriptable
+[CSDN](https://blog.csdn.net/qq_45878098/article/details/132815093)
+
 Q9. DISPLAY?
 ```
 xeyes -display 192.168.196.104:0.0
