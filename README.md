@@ -98,8 +98,11 @@ Refer to [CSDN](https://blog.csdn.net/weixin_45736684/article/details/117512018)
 Q9. TypeError: ‘numpy._DTypeMeta‘ object is not subscriptable
 [CSDN](https://blog.csdn.net/qq_45878098/article/details/132815093)
 
-Q9. DISPLAY?
+Q10. DISPLAY?
 ```
 xeyes -display 192.168.196.104:0.0
 sudo docker run --privileged --gpus all --name dlct3 -idt -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=$DISPLAY docker_dlc:v1
 ```
+
+Q11. print(list) output is [] while len(list) is not zero.
+due to the list is [[], [], []……] so it's length is not zero but the print(list) is [].  
