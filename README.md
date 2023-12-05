@@ -35,6 +35,10 @@ Face Parsing
 
 [Reference](https://blog.csdn.net/weixin_43723625/article/details/116719701)
 
+Face Detector
+
+[Reference](https://blog.csdn.net/woshicver/article/details/118586231)
+
 ## Some Concepts of Image Quality
 
 **Bokeh (散景)** 景深较浅的摄影成像中，落在景深以外的画面，会有逐渐产生松散模糊的效果
