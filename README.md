@@ -104,5 +104,5 @@ xeyes -display 192.168.196.104:0.0
 sudo docker run --privileged --gpus all --name dlct3 -idt -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=$DISPLAY docker_dlc:v1
 ```
 
-Q11. print(list) output is [] while len(list) is not zero.
+Q11. print(list) output is [] while len(list) is not zero.  
 due to the list is [[], [], []……] so it's length is not zero but the print(list) is [].  
