@@ -105,4 +105,11 @@ sudo docker run --privileged --gpus all --name dlct3 -idt -v /tmp/.X11-unix:/tmp
 ```
 
 Q11. print(list) output is [] while len(list) is not zero.  
+```
 due to the list is [[], [], []……] so it's length is not zero but the print(list) is [].  
+```
+
+Q12.Codec between H264 and MPEG4
+```
+ffmpeg -i E:\input.mp4 -vcodec h264 E:\output.mp4
+```
