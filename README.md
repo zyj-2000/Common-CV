@@ -111,5 +111,5 @@ due to the list is [[], [], []……] so it's length is not zero but the print(l
 
 Q12.Codec between H264 and MPEG4
 ```
-ffmpeg -i E:\input.mp4 -vcodec h264 E:\output.mp4
+ffmpeg -i MPEG4.mp4 -vcodec h264 H264.mp4
 ```
