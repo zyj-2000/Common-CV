@@ -10,6 +10,11 @@ Welcome to give your problems about CV in Issues and welcome to communicate with
 tmux new-session -t projection
 ```
 
+## ColMap
+```
+export LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH
+```
+
 ## Web
 
 How to get the poste time of an URL?:
