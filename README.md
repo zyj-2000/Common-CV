@@ -121,3 +121,6 @@ ffmpeg -i MPEG4.mp4 -vcodec h264 H264.mp4
 
 Q13. VScode SSH failed XRH:
 [CSDN](https://zhuanlan.zhihu.com/p/671718415)
+
+Q14. Elservier Manuscripts:
+[CSDN](https://blog.csdn.net/i_Sakura/article/details/136233299)
